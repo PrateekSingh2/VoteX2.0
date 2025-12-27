@@ -63,7 +63,7 @@ Now open your browser and type:
 
 ## 🪜Hierarchy
 There are three levels of hierarchy in this Voting system:
-**1.)**  **Voter:** Any person who is voting to thier favourable representative in the election. He/She has only rights to first get registered themself on portal and then can be able to give vote to only one person and that vote cannot be changed further.
+***1.)**  **Voter:** Any person who is voting to thier favourable representative in the election. He/She has only rights to first get registered themself on portal and then can be able to give vote to only one person and that vote cannot be changed further.
 
 **2.)** **Verification Admin:** This is the department where registered voters and representative can get registered themselves and get verified to be listed in the list of voters and representatives in electon.
 
