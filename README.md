@@ -61,6 +61,19 @@ Now open your browser and type:
 **localhost/VoteX/index.html**
     
 
+## 🪜Hierarchy
+There are three levels of hierarchy in this Voting system:
+**1.)**  **Voter:** Any person who is voting to thier favourable representative in the election. He/She has only rights to first get registered themself on portal and then can be able to give vote to only one person and that vote cannot be changed further.
+
+**2.)** **Verification Admin:** This is the department where registered voters and representative can get registered themselves and get verified to be listed in the list of voters and representatives in electon.
+
+**3.)** **Election Admin:** This department manage main elections tasks like deleting voters if they have done any mal-practiced or any representative have done any unfair activity that violates election rules. This department can permanently ban users from this portal for future use.
+
+**4.)** **Super Admin:** This department consists of only one person which is the Head of the election and Votex. Who operates this whole election and on behalf of this Super Admin other admin do thier respected task. This Admin takes care of fare behaviour of other Admins and voters and proper functioning/working/ and execution of VoteX and election.
+
+
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
