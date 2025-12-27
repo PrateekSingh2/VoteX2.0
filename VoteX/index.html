@@ -344,19 +344,20 @@ footer{
     </p>
 
     <form
-      action="https://formspree.io/f/mlgejovb"
+      action="https://script.google.com/macros/s/AKfycbzHu_ctWxCm5habGJkBNWvrL97wNmsFHM58CWqwKAoKX7KIRntytfYOrJJHGkPQttzU/exec"
       method="POST"
     >
       <label>
         Your email:
-        <input type="email" name="email">
+        <input type="email" name="email" required>
       </label>
+      <br>
       <label>
         Your message:
-        <textarea name="message"></textarea>
+        <textarea name="message" required></textarea>
       </label>
-      <!-- your other form fields go here -->
-      <button type="submit">Send</button>
+      
+      <button type="submit">Send to Google Sheets</button>
     </form>
   </div>
 </section>
