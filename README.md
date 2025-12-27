@@ -66,7 +66,7 @@ There are four levels of hierarchy in this Voting system:
 
 **1.)**  **Voter:** Any person who is voting to thier favourable representative in the election. He/She has only rights to first get registered themself on portal and then can be able to give vote to only one person and that vote cannot be changed further.
 
-**2.)** **Verification Admin:** This is the department where registered voters and representative can get registered themselves and get verified to be listed in the list of voters and representatives in electon.
+**2.)** **Verification Admin:** This is the department where registered voters and representative gets verified to be listed in the list of voters and representatives in electon.
 
 **3.)** **Election Admin:** This department manage main elections tasks like deleting voters if they have done any mal-practiced or any representative have done any unfair activity that violates election rules. This department can permanently ban users from this portal for future use.
 
