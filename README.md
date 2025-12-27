@@ -49,8 +49,11 @@ Follow these steps to run the project locally.
 Then, go to XAMPP folder and setup with following things:
 * Copy VoteX folder that you cloned from GIT and paste in "htdocs" named folder inside XAMPP folder.
 * Then move out of it, and copy VoteX_Private folder and paste in XAMPP itself.
-* Then go to "cgi-bin" name folder in parent folder of XAMPP and create a folder named as "VoteX" and in that create ".cgi" extension files of all the C++ files that are listed in VoteX->Backend folder from CMD by executing 
-```g++ yourfile.cpp -o yourfile.cgi```
+* Then go to "cgi-bin" name folder in parent folder of XAMPP and create a folder named as "VoteX" and in that create ".cgi" extension files of all the C++ files that are listed in VoteX->Backend folder from CMD by executing
+
+```
+g++ yourfile.cpp -o yourfile.cgi
+```
     
 
 **3.)** *Run the Application*
