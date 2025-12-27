@@ -1,0 +1,2 @@
+AdminId,Password,Email,Phone,AdminName,SecurityQuestion,SecurityAnswer
+MITS_EA_0,Password,example@mail.com,12345678,Name,sq2,Indore

@@ -1,0 +1,3 @@
+AdminId,Password,Email,Phone,AdminName,SecurityQuestion,SecurityAnswer
+MITS_VA_0,Password,example@mail.com,12345678,Name,sq2,Indore
+MITS_VA_1,123,25ai1kr75@mitsgwl.ac.in,-,Krishna,-,-
