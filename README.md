@@ -58,8 +58,10 @@ Then, go to XAMPP folder and setup with following things:
 Now open your browser and type:
 
 
-**localhost/VoteX/index.html**
-    
+```
+localhost/VoteX/index.html
+ ```
+   
 
 ## 🪜Hierarchy
 There are four levels of hierarchy in this Voting system:
